@@ -1,6 +1,6 @@
 {
   "name": "@hvrlk/solana",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Solana Javascript API",
   "keywords": [
     "api",

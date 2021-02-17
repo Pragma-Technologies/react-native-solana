@@ -1,5 +1,5 @@
 {
-  "name": "@solana/web3.js",
+  "name": "@hvrlk/solana",
   "version": "0.0.0-development",
   "description": "Solana Javascript API",
   "keywords": [
@@ -7,14 +7,14 @@
     "blockchain"
   ],
   "license": "MIT",
-  "author": "Solana Maintainers <maintainers@solana.com>",
+  "author": "hvrlk",
   "homepage": "https://solana.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/solana-labs/solana-web3.js.git"
+    "url": "https://github.com/HvrlK/solana.git"
   },
   "bugs": {
-    "url": "http://github.com/solana-labs/solana-web3.js.git/issues"
+    "url": "https://github.com/HvrlK/solana.git/issues"
   },
   "publishConfig": {
     "access": "public"

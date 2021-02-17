@@ -36,7 +36,6 @@ export class AgentManager {
     this._activeRequests--;
     if (this._activeRequests === 0 && this._destroyTimeout === null) {
       this._destroyTimeout = setTimeout(() => {
-        this._agent.destroy();
         this._agent = AgentManager._newAgent(this._useHttps);
       }, DESTROY_TIMEOUT_MS);
     }

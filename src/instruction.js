@@ -1,7 +1,7 @@
 // @flow
 
 import {Buffer} from 'buffer';
-import * as BufferLayout from 'buffer-layout';
+import * as BufferLayout from '@hvrlk/buffer-layout';
 
 import * as Layout from './layout';
 

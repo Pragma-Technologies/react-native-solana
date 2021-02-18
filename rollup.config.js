@@ -127,7 +127,7 @@ function generateConfig(configType, format) {
         /@babel\/runtime/,
         'bn.js',
         'bs58',
-        'buffer-layout',
+        '@hvrlk/buffer-layout',
         'crypto-hash',
         'jayson/lib/client/browser',
         'js-sha3',

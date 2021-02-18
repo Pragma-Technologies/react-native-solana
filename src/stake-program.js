@@ -1,6 +1,6 @@
 // @flow
 
-import * as BufferLayout from 'buffer-layout';
+import * as BufferLayout from '@hvrlk/buffer-layout';
 
 import {encodeData, decodeData} from './instruction';
 import * as Layout from './layout';

@@ -1,20 +1,17 @@
 {
-  "name": "@hvrlk/solana",
-  "version": "1.0.1",
+  "name": "@pragma/react-native-solana",
+  "version": "1.0.0",
   "description": "Solana Javascript API",
   "keywords": [
     "api",
     "blockchain"
   ],
   "license": "MIT",
-  "author": "hvrlk",
+  "author": "Vitalii Havryliuk <vitalii.havryliuk@pragma-technologies.com>",
   "homepage": "https://solana.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HvrlK/solana.git"
-  },
-  "bugs": {
-    "url": "https://github.com/HvrlK/solana.git/issues"
+    "url": "https://github.com/Pragma-Technologies/react-native-solana.git"
   },
   "publishConfig": {
     "access": "public"

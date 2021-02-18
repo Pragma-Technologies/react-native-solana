@@ -24,7 +24,7 @@
 
 # Solana JavaScript API
 
-This is the Solana Javascript API built on the Solana [JSON RPC API](https://docs.solana.com/apps/jsonrpc-api)
+This is the Solana Javascript API built on the Solana [JSON RPC API](https://docs.solana.com/apps/jsonrpc-api) for React Native
 
 [Latest API Documentation](https://solana-labs.github.io/solana-web3.js/)
 
